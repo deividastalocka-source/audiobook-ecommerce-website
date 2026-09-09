@@ -6,6 +6,10 @@ The project focuses on building a multi-page shopping interface with audiobook c
 
 > **Note:** This is a front-end project. Payments, backend services and real user accounts are not implemented.
 
+## Preview
+
+![Audiobook E-Commerce Website Home Page](screenshots/Home%20Page.png)
+
 ## Features
 
 The website includes:
